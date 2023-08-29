@@ -1,0 +1,35 @@
+# Compiled output
+/target/
+/bin/
+/out/
+/shelf/
+
+# IDE-specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Compiled class files
+*.class
+
+# Logs and temporary files
+*.log
+*.bak
+*.swp
+*.tmp
+
+# Eclipse specific files
+.metadata/
+bin/
+
+# NetBeans specific files
+nbproject/private/
+build/
+
+# IntelliJ specific files
+*.iml
+out/
+
+# Maven specific files
+target/

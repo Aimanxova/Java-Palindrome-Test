@@ -74,4 +74,4 @@ Enjoy exploring palindromes with this program!
 ## License
 [MIT License](LICENSE)
 
-**Please note that this eLeave System is provided as-is without any warranty. Use it at your own risk.**
+**Please note that this Java script is provided as-is without any warranty. Use it at your own risk.**
